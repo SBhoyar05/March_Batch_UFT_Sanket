@@ -13,7 +13,7 @@ End Function
 
 Function fnRegister
 
-	'this is an register page code
+	'this is the script for registration 
 	Browser("name:=Demo Web Shop").Page("title:=Demo Web Shop").Link("name:=Register").fnWebLink
 	 Browser("name:=Demo Web Shop. Register").Page("title:=Demo Web Shop. Register").WebEdit("html id:=FirstName").WaitProperty "visible", True, 10000
 	
@@ -102,6 +102,7 @@ End Function
 '=============================================================================================================================
 
 Function fnLogin
+'this is the script for login in tricentis demowebshop
 	Browser("name:=Demo Web Shop").Page("title:=Demo Web Shop").Link("name:=Log in").fnWebLink
 	
 	'Validating Email Field
