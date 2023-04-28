@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "Bit_Map_checkpoint", "Bit_Map_checkpoint\Test.tsp", "6C2448BE-96C9-4216-AC69-4FE25995DE0E"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\UFT_Learning\DemoWebShopHybrid\TestCases\Bit_Map_checkpoint\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		6C2448BE-96C9-4216-AC69-4FE25995DE0E.Debug|Any CPU.Build.0 = Debug|Any CPU
+		6C2448BE-96C9-4216-AC69-4FE25995DE0E.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		6C2448BE-96C9-4216-AC69-4FE25995DE0E.Release|Any CPU.Build.0 = Release|Any CPU
+		6C2448BE-96C9-4216-AC69-4FE25995DE0E.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

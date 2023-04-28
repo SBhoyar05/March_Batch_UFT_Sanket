@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "call_to_copy_action_demo", "call_to_copy_action_demo\Test.tsp", "B1AEFB49-2921-47D4-9572-8F210E098FE4"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\UFT_Learning\DemoWebShopHybrid\TestCases\call_to_copy_action_demo\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Project("") = "call_to_copy_action_demo1", "call_to_copy_action_demo1\Test.tsp", "3C5D6724-72F5-4506-A57D-9B54AAEA764D"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\UFT_Learning\DemoWebShopHybrid\TestCases\call_to_copy_action_demo1\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Project("") = "call_to_existing_action_demo", "call_to_existing_action_demo\Test.tsp", "9949BBF7-F50E-4791-9CEC-FD72D4CFDEBB"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\UFT_Learning\DemoWebShopHybrid\TestCases\call_to_existing_action_demo\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		B1AEFB49-2921-47D4-9572-8F210E098FE4.Debug|Any CPU.Build.0 = Debug|Any CPU
+		B1AEFB49-2921-47D4-9572-8F210E098FE4.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		B1AEFB49-2921-47D4-9572-8F210E098FE4.Release|Any CPU.Build.0 = Release|Any CPU
+		B1AEFB49-2921-47D4-9572-8F210E098FE4.Release|Any CPU.ActiveCfg = Release|Any CPU
+		3C5D6724-72F5-4506-A57D-9B54AAEA764D.Debug|Any CPU.Build.0 = Debug|Any CPU
+		3C5D6724-72F5-4506-A57D-9B54AAEA764D.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		3C5D6724-72F5-4506-A57D-9B54AAEA764D.Release|Any CPU.Build.0 = Release|Any CPU
+		3C5D6724-72F5-4506-A57D-9B54AAEA764D.Release|Any CPU.ActiveCfg = Release|Any CPU
+		9949BBF7-F50E-4791-9CEC-FD72D4CFDEBB.Debug|Any CPU.Build.0 = Debug|Any CPU
+		9949BBF7-F50E-4791-9CEC-FD72D4CFDEBB.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		9949BBF7-F50E-4791-9CEC-FD72D4CFDEBB.Release|Any CPU.Build.0 = Release|Any CPU
+		9949BBF7-F50E-4791-9CEC-FD72D4CFDEBB.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
